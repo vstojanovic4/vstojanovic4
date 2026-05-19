@@ -1,9 +1,9 @@
 # Vasilije Stojanović — Frontend & Email Developer
 
 Actively learning web development over the past few months with a mentor specialized in e-commerce.
-Started with HTML, CSS, JavaScript and Liquid (Shopify templating language), and gradually 
-shifted focus toward email development and HTML5 banners for digital campaigns — 
+Started with HTML, CSS, JavaScript and Liquid (Shopify templating language),building pages for Shopify stores and working fom Figma desings. Gradually shifted focus toward email development and HTML5 banners for digital campaigns-
 which is where I want to grow.
+Able to read Figma designs and translate them into pixel-perfect code.
 
 - 🔭 Currently working on: HTML email templates and HTML5 banner sets
 - 🌱 Currently learning: Email development, responsive design, CSS animations
@@ -21,5 +21,9 @@ CSS animations, grain texture overlay, live countdown timer.
 Promotional email template built with table-based structure.
 Compatible with Gmail, Outlook and Apple Mail clients.
 
+### Shopify Store Pages
+Custom page development for Shopify stores using Liquid templating language.
+Built from Figma designs, focused on pixel-perfect implementation and e-commerce UX.
+
 ## Technologies
-HTML5 · CSS3 · JavaScript · Liquid (Shopify) · Email Development · HTML5 Banners
+HTML5 · CSS3 · JavaScript · Liquid (Shopify) · Figma ·  Email Development · HTML5 Banners
